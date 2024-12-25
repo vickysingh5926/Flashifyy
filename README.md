@@ -43,7 +43,6 @@ Follow these steps to set up the project locally: <br/>
 
 ## Prerequisites: <br/>
 Install Node.js and npm. <br/>
-Install Docker (optional). <br/>
 Steps: <br/>
 Clone the repository: <br/>
 
@@ -62,19 +61,16 @@ npm install <br/>
 Configure the environment variables for the backend (e.g., database URI, JWT secret) in a .env file: <br/>
 
 bash <br/>
-Copy code <br/>
 DATABASE_URI=mongodb://localhost:27017/socialmedia <br/>
 JWT_SECRET=your_secret_key <br/>
 Start the backend server: <br/>
 
 bash <br/>
-Copy code <br/>
 cd backend <br/>
 npm start <br/>
 Start the frontend development server: <br/>
 
 bash <br/>
-Copy code <br/>
 cd frontend <br/>
 npm start <br/>
 
