@@ -12,7 +12,7 @@ A social media platform where users can interact with each other through posts. 
 **Contributing** <br/>
 **License** <br/>
 <br/>
-<hr><hr/>
+<hr>
  ## Introduction <br/>
 This is a feature-rich social media platform designed for user interaction. The application allows users to:
 
