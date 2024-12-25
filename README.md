@@ -2,16 +2,16 @@
 A social media platform where users can interact with each other through posts. Users can create posts, like posts, and comment on them.
 
 # Table of Contents <br/>
-**Introduction**
-**Features**
-**Tech Stack**
-**Installation**
-**Usage**
-**Project Structure**
-**Deployment**
-**Contributing**
-**License**
-**Introduction**
+**Introduction**  <br/>
+**Features** <br/>
+**Tech Stack** <br/>
+**Installation** <br/>
+**Usage** <br/>
+**Project Structure** <br/>
+**Deployment** <br/>
+**Contributing** <br/>
+**License** <br/>
+**Introduction** <br/>
 This is a feature-rich social media platform designed for user interaction. The application allows users to:
 
 Share their thoughts and ideas through posts.
