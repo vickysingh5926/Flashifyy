@@ -9,8 +9,6 @@ A social media platform where users can interact with each other through posts. 
 **Usage** <br/>
 **Project Structure** <br/>
 **Deployment** <br/>
-**Contributing** <br/>
-**License** <br/>
 
 <hr> 
 
