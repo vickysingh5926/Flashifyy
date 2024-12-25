@@ -1,7 +1,7 @@
-Social Media Platform
+****Social Media Platform****
 A social media platform where users can interact with each other through posts. Users can create posts, like posts, and comment on them.
 
-Table of Contents
+***Table of Contents***
 Introduction
 Features
 Tech Stack
@@ -90,17 +90,17 @@ Project Structure
 plaintext
 Copy code
 ├── backend/
-│   ├── controllers/     # Logic for handling requests
-│   ├── models/          # Database models (e.g., User, Post)
-│   ├── routes/          # API routes
-│   └── app.js           # Entry point for the backend server
+│   ├── controllers/    
+│   ├── models/         
+│   ├── routes/          
+│   └── app.js          
 ├── frontend/
-│   ├── src/             # React components and logic
-│   ├── public/          # Static assets
-│   └── package.json     # Frontend dependencies
-├── .dockerignore        # Docker ignore file
-├── .gitignore           # Git ignore file
-├── Dockerfile           # Docker configuration
-├── README.md            # Project documentation
-├── script.txt           # Additional scripts
-└── start.sh             # Script to start the project
+│   ├── src/            
+│   ├── public/         
+│   └── package.json     
+├── .dockerignore        
+├── .gitignore           
+├── Dockerfile           
+├── README.md           
+├── script.txt          
+└── start.sh             
