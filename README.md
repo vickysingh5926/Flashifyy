@@ -42,33 +42,34 @@ Follow these steps to set up the project locally: <br/>
 ## Prerequisites: <br/>
 Install Node.js and npm. <br/>
 Steps: <br/>
-Clone the repository: <br/>
+ ## Clone the repository: <br/>
 
-bash <br/>
-git clone <repository_url> <br/>
-cd <project_folder> <br/>
-Navigate to the frontend and backend directories to install dependencies: <br/>
+git clone <repository_url><br/>
+cd <project_folder><br/>
 
-bash <br/>
+## Navigate to the frontend and backend directories to install dependencies: <br/>
+Navigate to the frontend and backend directories to install dependencies:<br/>
+
 cd frontend <br/>
-npm install <br/>
-cd ../backend <br/>
-npm install <br/>
-Configure the environment variables for the backend (e.g., database URI, JWT secret) in a .env file: <br/>
+npm install<br/>
+cd ../backend<br/>
+npm install<br/>
+ ## Configure the environment variables for the backend (e.g., database URI, JWT secret) in a .env file:<br/>
 
-bash <br/>
-DATABASE_URI=mongodb://localhost:27017/socialmedia <br/>
-JWT_SECRET=your_secret_key <br/>
-Start the backend server: <br/>
+DATABASE_URI=mongodb://localhost:27017/socialmedia<br/>
+JWT_SECRET=your_secret_key<br/>
+## Start the backend server:<br/>
 
-bash <br/>
-cd backend <br/>
-npm start <br/>
-Start the frontend development server: <br/>
 
-bash <br/>
-cd frontend <br/>
-npm start <br/>
+
+cd backend<br/>
+npm start<br/>
+
+## Start the frontend development server:<br/>
+
+cd frontend<br/>
+npm start<br/>
+
 
 ## Usage  <br/>
 Visit the frontend in your browser: http://localhost:3000. <br/>
