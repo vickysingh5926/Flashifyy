@@ -45,13 +45,11 @@ Steps: <br/>
 Clone the repository: <br/>
 
 bash <br/>
-Copy code <br/>
 git clone <repository_url> <br/>
 cd <project_folder> <br/>
 Navigate to the frontend and backend directories to install dependencies: <br/>
 
 bash <br/>
-Copy code <br/>
 cd frontend <br/>
 npm install <br/>
 cd ../backend <br/>
