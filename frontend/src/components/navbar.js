@@ -13,6 +13,7 @@ const loginstatus=()=>{
    if(token || prop.login){
     return [
       <>
+      //using Link to instead of anchor tag bcoz anchor tag lgane pr pura website firse load krega
       <Link to="/profile"><li className='sign'>Profile</li></Link>
       <Link to="/createpost"><li className='sign'>Create Post</li></Link>
       <Link style={{marginLeft:"20px"}} to={"/myfollowingpost"}><li className='sign'>My Following Post</li> </Link>
